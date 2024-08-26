@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My SQLite</string>
+    <string name="simpan">simpan</string>
+    <string name="masukkan_menu_favorit">masukkan_menu_favorit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
